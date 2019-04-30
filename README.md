@@ -1,13 +1,24 @@
 # BouncyNumberCalculator
+
+This program finds the least number for which the proportion of bouncy numbers is 99% or more.<br>
+You can also find the result for another percentages, by giving a number in the first argument of the execution.
+
+## Setup
+
 In a Python 3.x environment, run:
 ```
 python main.py [optional: integer or float number to set a percentage to find]
 ```
 Then wait the result.
 
+## Running result for 99%
+
 <details>
-    <summary><strong>Quick answer for 99%:</strong></summary>
-    Last Bouncy Number Verified: 107290600<br>
-    Amount of Bouncy Numbers: 106217694<br>
-    Proportion of Bouncy Numbers: 0.99<br>
+    <summary><em>Click here to reveal the answer</em></summary>
+    <dl>
+        <dd></dd>
+        <dd>Last Bouncy Number Verified: 107290600</dd>
+        <dd>Amount of Bouncy Numbers: 106217694</dd>
+        <dd>Proportion of Bouncy Numbers: 0.99</dd>
+    <dl>
 </details>
