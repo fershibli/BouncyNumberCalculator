@@ -15,10 +15,10 @@ Then wait the result.
 
 <details>
     <summary><em>Click here to reveal the answer</em></summary>
-    <dl>
-        <dd></dd>
+    <blockquote>
         <dd>Last Bouncy Number Verified: 107290600</dd>
         <dd>Amount of Bouncy Numbers: 106217694</dd>
         <dd>Proportion of Bouncy Numbers: 0.99</dd>
-    <dl>
+    </blockquote>
 </details>
+        
