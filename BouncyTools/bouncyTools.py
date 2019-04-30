@@ -21,7 +21,7 @@ class LeastBouncyFinder(object):
     def __init__(self, percentage_to_find_least_bouncy):
         self.percentage_to_find_least_bouncy = percentage_to_find_least_bouncy
     def __str__(self):
-        return '\n\t----- Result for %.3f%% ------\n\nLast Bouncy Number:\t\t %s\nAmount of Bouncy Numbers:\t %d\nProportion of Bouncy Numbers:\t %s' % (
+        return '\n\t----- Result for %.3f%% ------\n\nLast Bouncy Number Verified:\t\t %s\nAmount of Bouncy Numbers:\t %d\nProportion of Bouncy Numbers:\t %s' % (
             self.percentage_to_find_least_bouncy*100,
             self.last_number,
             self.bouncy_amount,
